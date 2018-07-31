@@ -9,5 +9,8 @@ This repository contains some of my projects on Data Science and Machine Learnin
 
 | Topic    | Data  |
 |:--------|:-------|
-| [Linear Regression](https://github.com/ClaudioDavi/data-science/blob/master/project/Machine%20Learning/Linear%20Regression.ipynb) |[e-commerce](https://github.com/ClaudioDavi/data-science/blob/master/project/Data/Ecommerce%20Customers)|
-| [Decision Trees](https://github.com/ClaudioDavi/data-science/blob/master/project/Machine%20Learning/Decision%20Trees%20and%20Random%20Forest.ipynb) |[loan](https://github.com/ClaudioDavi/data-science/blob/master/project/Data/loan_data.csv)|
+| [Linear Regression](https://github.com/ClaudioDavi/data-science/blob/master/project/Machine%20Learning/Linear%20Regression.ipynb) |[e-commerce](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/Ecommerce%20Customers)
+| [Logistic Regression](https://github.com/ClaudioDavi/data-science/blob/master/project/machine_learning/Logistic_Regression.ipynb)|[advertising](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/advertising.csv)
+| [Decision Trees](https://github.com/ClaudioDavi/data-science/blob/master/project/Machine%20Learning/Decision%20Trees%20and%20Random%20Forest.ipynb) |[loan](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/loan_data.csv)
+| [Support Vector Machines](https://github.com/ClaudioDavi/data-science/blob/master/project/machine_learning/SupportVector_Machines.ipynb)|Iris Dataset|
+| [K Nearest Neighbors](https://github.com/ClaudioDavi/data-science/blob/master/project/machine_learning/K_NearestNeighbors.ipynb)|[KNN Project Data](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/KNN_Project_Data)|
