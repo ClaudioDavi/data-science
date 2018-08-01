@@ -9,7 +9,7 @@ This repository contains some of my projects on Data Science and Machine Learnin
 
 | Topic    | Data  |
 |:--------|:-------|
-| [Linear Regression](https://github.com/ClaudioDavi/data-science/blob/master/project/Machine%20Learning/Linear%20Regression.ipynb) |[e-commerce](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/Ecommerce%20Customers)
+| [Linear Regression](https://github.com/ClaudioDavi/data-science/blob/master/project/Machine%20Learning/Linear%20Regression.ipynb) |[e-commerce](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/ecommerce)
 | [Logistic Regression](https://github.com/ClaudioDavi/data-science/blob/master/project/machine_learning/Logistic_Regression.ipynb)|[advertising](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/advertising.csv)
 | [Decision Trees](https://github.com/ClaudioDavi/data-science/blob/master/project/Machine%20Learning/Decision%20Trees%20and%20Random%20Forest.ipynb) |[loan](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/loan_data.csv)
 | [Support Vector Machines](https://github.com/ClaudioDavi/data-science/blob/master/project/machine_learning/SupportVector_Machines.ipynb)|Iris Dataset|
