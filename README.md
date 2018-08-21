@@ -1,17 +1,24 @@
-# Python Data Science and Machine Learning Sessions
+# Machine Learning Aplicado
 
-## Context
+## Objetivo
 
-This repository contains some of my projects on Data Science and Machine Learning.
-
-## Contents
+Este repositório tem como objetivo demonstrar a utilização de técnicas de Machine Learning aplicadas a problemas de negócio reais. Algumas técnicas demonstradas aqui não terão posts no blog porém o código estará sempre explicado nos notebooks.
 
 
-| Topic    | Data  |
-|:--------|:-------|
-| [Linear Regression](https://github.com/ClaudioDavi/data-science/blob/master/project/Machine%20Learning/Linear%20Regression.ipynb) |[e-commerce](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/ecommerce)
-| [Logistic Regression](https://github.com/ClaudioDavi/data-science/blob/master/project/machine_learning/Logistic_Regression.ipynb)|[advertising](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/advertising.csv)
-| [Decision Trees](https://github.com/ClaudioDavi/data-science/blob/master/project/Machine%20Learning/Decision%20Trees%20and%20Random%20Forest.ipynb) |[loan](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/loan_data.csv)
-| [Support Vector Machines](https://github.com/ClaudioDavi/data-science/blob/master/project/machine_learning/SupportVector_Machines.ipynb)|Iris Dataset|
-| [K Nearest Neighbors](https://github.com/ClaudioDavi/data-science/blob/master/project/machine_learning/K_NearestNeighbors.ipynb)|[KNN Project Data](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/KNN_Project_Data)
-| [K Means Clustering](https://github.com/ClaudioDavi/data-science/blob/master/project/machine_learning/K_Means_Clustering.ipynb) |[US College Data](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/college_data)|
+## Conteúdo
+
+
+| Topico    | Dados  | Blog Post |
+|:--------|:-------|:----------|
+| [Linear Regression](https://github.com/ClaudioDavi/data-science/blob/master/project/machine_learning/Linear_Regression.ipynb) |[e-commerce](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/ecommerce) | [Analisando Dados de Um E-Commerce](https://medium.com/claudiodavi/analise-ecommerce-384b9fd8905d)
+| [Logistic Regression](https://github.com/ClaudioDavi/data-science/blob/master/project/machine_learning/Logistic_Regression.ipynb)|[advertising](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/advertising.csv) | Coming Soon
+| [Decision Trees](https://github.com/ClaudioDavi/data-science/blob/master/project/machine_learning/DecisionTrees_RandomForest.ipynb) |[loan](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/loan_data.csv) | Coming Soon
+| [Support Vector Machines](https://github.com/ClaudioDavi/data-science/blob/master/project/machine_learning/SupportVector_Machines.ipynb)|Iris Dataset |  -
+| [K Nearest Neighbors](https://github.com/ClaudioDavi/data-science/blob/master/project/machine_learning/K_NearestNeighbors.ipynb)|[KNN Project Data](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/KNN_Project_Data) | -
+| [K Means Clustering](https://github.com/ClaudioDavi/data-science/blob/master/project/machine_learning/K_Means_Clustering.ipynb) |[US College Data](https://github.com/ClaudioDavi/data-science/blob/master/project/datasets/college_data)|Coming Soon
+
+
+## Contato
+
+Qualquer pergunta e/ou sugestão, sinta-se à vontade para entrar em contato em cdavisouza 'at' gmail.com
+
